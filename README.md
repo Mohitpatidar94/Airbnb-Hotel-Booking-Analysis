@@ -20,7 +20,7 @@ The analysis focuses on:
 
 ## Data Cleaning
 
-Before starting the analysis, I:
+Before starting the analysis,
 
 - Checked the dataset structure, columns, and data types
 - Checked and handled missing values
@@ -66,32 +66,9 @@ The cleaned data was used to analyse:
 - **Seaborn** - Statistical visualization
 - **Jupyter Notebook** - Analysis and documentation
 
-## Project Structure
-
-```text
-Airbnb-Hotel-Booking-Analysis/
-│
-├── Airbnb_Hotel_Booking_Analysis.ipynb
-├── README.md
-├── DATASET.md
-└── images/
-```
 
 ## Dataset
-
 The original Excel dataset is not included in this repository because of its large file size.
 
 The dataset source and download link are available in [`DATASET.md`](DATASET.md).
 
-## How to Use
-
-1. Download the dataset from the source mentioned in `DATASET.md`.
-2. Open `Airbnb_Hotel_Booking_Analysis.ipynb` in Jupyter Notebook or JupyterLab.
-3. Place the dataset in the same working directory.
-4. Run the notebook cells in order to reproduce the cleaning and analysis.
-
-## Author
-
-**Mohit Patidar**
-
-Data Analytics Project
