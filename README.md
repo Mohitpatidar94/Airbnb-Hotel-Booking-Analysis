@@ -64,13 +64,6 @@ Airbnb-Hotel-Booking-Analysis/
 └── images/
 ```
 
-## How to Run
-
-1. Clone or download this repository.
-2. Open `Airbnb_Hotel_Booking_Analysis.ipynb` in Jupyter Notebook or JupyterLab.
-3. Install the required Python libraries.
-4. Run the notebook cells in order.
-
 ## Key Findings
 
 - Manhattan has the highest number of listings.
@@ -80,9 +73,3 @@ Airbnb-Hotel-Booking-Analysis/
 - Price and service fee show a very strong positive relationship.
 - Review rates vary across neighbourhood groups and room types.
 - Host listing count has a weak relationship with availability.
-
-## Author
-
-**Mohit Patidar**
-
-Data Analytics Project
